@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yamil Yaluk</h1>
-<h3 align="center">A developer from Paraguay, South America.</h3>
+<h3 align="center">A young developer from Paraguay, South America.</h3>
 
 - I’m currently learning **Python, C**
 
