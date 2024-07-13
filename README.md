@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **yamiyaluk@gmail.com**
 
-- My other hobbies are **drawing** and **reading.**
+- My other hobbies are **drawing** and **reading**.
 
 
 <h3 align="left">Languages and Tools:</h3>
