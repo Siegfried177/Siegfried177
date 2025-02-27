@@ -8,5 +8,5 @@
 - My other hobbies are **drawing** and **reading**.
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> Python, C, GTK 3.0, Django, Git, SQL</p>
+<h3 align="left">Technologies:</h3>
+<p align="left"> C#, Python, C++, C, Git, SQL, WPF, GTK 4.0, Django</p>
